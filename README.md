@@ -25,21 +25,21 @@ const developer = {
   role: "Assistant Software/Web Developer",
   company: "My Creative Panda INC.",
   education: "BS Computer Science, St. Paul Colleges Foundation - Paniqui Tarlac Inc.",
-  status: "Recent Graduate 🎓",
+  status: "Recent Graduate",
   stack: ["React", "Node.js", "Express", "MongoDB", "PHP", "MySQL"],
   currentFocus: "Building scalable web applications",
-  funFact: "I turn ☕ into <code/>",
+  funFact: "The most terrifying button is git push --force",
 };
 ```
 
 - 💼 Currently training as an **Assistant Software/Web Developer** at **My Creative Panda INC.**
 - 🎓 Recent graduate — **BS Computer Science** at **St. Paul Colleges Foundation, Paniqui Tarlac Inc.**
-- 🔭 I'm currently working on ** Bacolor Pampanga Website Revamp **
-- 🌱 I'm currently learning ** CakePHP2 and Angular Js **
+- 🔭 I'm currently working on **Bacolor Pampanga Website Revamp**
+- 🌱 I'm currently learning **CakePHP2 and Angular Js**
 - 👯 I'm looking to collaborate on **open-source MERN stack projects**
 - 💬 Ask me about **React, Node.js, PHP, or MySQL**
 - 📫 How to reach me: **joeytamondong2001@gmail.com**
-- ⚡ Fun fact: **My code words on the first try... just kidding, I Love debugging**
+- ⚡ Fun fact: **My code works on the first try... just kidding, I love debugging**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -68,6 +68,12 @@ const developer = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
+<h4>Deployment & Hosting</h4>
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</p>
+
 <h4>Tools & Platforms</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -79,39 +85,9 @@ const developer = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" width="100%"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🤝 Let's Connect
 
 <p align="center">
   I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=2EA0DA&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center"><i>Thanks for stopping by — happy coding! 🚀</i></p>
